@@ -1,0 +1,32 @@
+{
+  "name": "air_freight_layout",
+  "version": "1.0.0",
+  "description": "Airfreight is a platform for air shipment creation, tracking, invoicing and payment",
+  "main": "src/js/index.js",
+  "scripts": {
+    "dev": "node-sass --watch ./scss -o public/assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romeo-Peter/air_freight_layout.git"
+  },
+  "keywords": [
+    "air",
+    "freight",
+    "shipment",
+    "cargo",
+    "invoice",
+    "tracking",
+    "delivery",
+    "shipment-payment"
+  ],
+  "author": "Air Freight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romeo-Peter/air_freight_layout/issues"
+  },
+  "homepage": "https://github.com/Romeo-Peter/air_freight_layout#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
